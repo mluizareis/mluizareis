@@ -4,8 +4,8 @@ Olá, eu sou a Maria Luiza, mas pode me chamar de Mel. Me formei em arquitetura,
 
 ## Curiosidades:
 
-- Sou a louca das plantas, tenho mais de 100 e um perfil no Instagram só pra falar delas (já ganhei até recebidos, será que posso me considerar influencer?)
-- Além das verdinhas, tenho um filhote humano e duas felinas.
-- Adoro fazer doces, e já tive uma marca de ovos de páscoa
-- Também sei cortar uns cabelos, mesmo sem ter feito nenhum curso de cabeleireiro.
+ - Sou a louca das plantas, tenho mais de 100 e um perfil no Instagram só pra falar delas (já ganhei até recebidos, será que posso me considerar influencer?)
+ - Além das verdinhas, tenho um filhote humano e duas felinas.
+ - Adoro fazer doces, e já tive uma marca de ovos de páscoa
+ - Também sei cortar uns cabelos, mesmo sem ter feito nenhum curso de cabeleireiro.
 
