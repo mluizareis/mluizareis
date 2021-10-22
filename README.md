@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Maria Luiza, mas pode me chamar de Mel;
 - 🏫 Graduada em Arquitetura e Urbanismo, em processo de transição de carreira;
-- 📝 Estudando backend no curso NExt da Cesar School, com foco em Python, Java e Git;
+- 📝 Estudando backend no curso NExt da Cesar School, com foco em Python e Java;
 - 🌿 Curiosidade sobre mim: sou colecionadora de plantas, falo sobre elas no www.instagram.com/manda.mudas e pretendo desenvolver um app de catalogação e cuidados com as verdinhas.
 
 <div align="center" style="display: inline_block"><br>
